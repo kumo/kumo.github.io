@@ -9,4 +9,11 @@
     <!-- Custom CSS -->
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 
+    {% unless page.twitter == blank %}
+
+    <meta name="twitter:app:id:iphone" content="{{ page.twitter }}">
+    <meta name="twitter:app:country" content="gb">
+
+    {% endunless %}
+
 </head>
