@@ -8,8 +8,7 @@
 
 <link rel="stylesheet" href="{{ "/css/style.css" | prepend: site.baseurl }}">
 <link rel="stylesheet" href="{{ "/css/blue.css" | prepend: site.baseurl }}">
-<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.kumo.it/feed/" />
-<link rel="pingback" href="http://www.kumo.it/xmlrpc.php" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="{{ "/feed/" | prepend: site.baseurl }}" />
 
 <!-- Theme version -->
 <meta name="generator" content="Placeholder 1.1" />
@@ -68,7 +67,7 @@
 		    	   		<a href="mailto:{{ site.email }}" class="contact">Contact</a>
 		    	   	</div>
 		    	   			    				    		<div class="link last">
-		    	   		<a href="http://www.kumo.it/feed/" class="subscribe">Subscribe</a>
+		    	   		<a href="{{ "/feed/" | prepend: site.baseurl }}" class="subscribe">Subscribe</a>
 		    	   	</div>
 		    	   			    	   	<div class="fix"></div>
 	    	   	</div>
