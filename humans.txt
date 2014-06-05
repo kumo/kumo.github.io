@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Robert Clarke
+    @kumo
+
+# THANKS
+
+    the ones that I never thank enough
+
+# TECHNOLOGY COLOPHON
+
+    jekyll
+    hyde (theme)
+    github
+    atom
