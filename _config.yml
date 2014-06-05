@@ -1,7 +1,7 @@
 # Site settings
 title: "[kumo.it]"
 email: kumo@kumo.it
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "<p>The iPhone software are no longer on this website and have been moved to a new home at <a href='http://www.cloudpebbles.com'>www.cloudpebbles.com</a>. If you are looking for the hiragana and katakana online quizzes then they can be found at <a href='http://quiz.kumo.it'>quiz.kumo.it</a> and if you are interested in my BeOS apps check out <a href='http://kumo-beos.tumblr.com'>kumo-beos.tumblr.com</a>. This website instead will be returning shortly...</p>"
 baseurl: ""
 url: "http://www.kumo.it"
 username: kumo
@@ -16,3 +16,5 @@ gauges: 537626b98bfdf7060a000c47
 google: UA-84351-1
 
 author: "Rob Clarke"
+
+subtitle: "Website update"

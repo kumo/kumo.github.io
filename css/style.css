@@ -98,7 +98,7 @@ html body * span.clear,html body * div.clear,html body * li.clear,html body * dd
 
 /* 1.1 Defaults */
 
-body  { font: 12px/1.5em Arial,Helvetica,Sans-serif; color: #555; background:#e9e9e9 url(images/bg-grid.png) repeat; }
+body  { font: 12px/1.5em Arial,Helvetica,Sans-serif; color: #555; background:#e9e9e9 url(/images/bg-grid.png) repeat; }
 
 h1, h2, h3, h4, h5, h6  { margin: 0; font-family:sans-serif; color: #555; font-weight:bold; }
 h1  {font-size: 2em } h2  {font-size: 1.8em;} h3  {font-size: 1.6em;} h4  {font-size: 1.2em;} h5  {font-size: 1em;} h6  {font-size: 0.8em;}
@@ -125,7 +125,7 @@ h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover  {text-de
 /*-------------------------------------------------------------------------------------------*/
 
 /* 2.1 Containers & Columns */
-#wrapper  { background:url(images/bg-top.png) repeat-x 0px 1px; }
+#wrapper  { background:url(/images/bg-top.png) repeat-x 0px 1px; }
 
 .col-full  { width: 660px; margin: 0 auto; }
 
