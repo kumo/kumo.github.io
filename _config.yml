@@ -12,9 +12,10 @@ author:
 # Build settings
 markdown: redcarpet
 highlighter: pygments
-permalink: pretty
+permalink: /:year/:month/:day/:title/
 
 paginate: 5
+#paginate_path: "page/:num/"
 
 # Tracking settings
 

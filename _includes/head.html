@@ -16,6 +16,10 @@
   <meta name="author" content="{{ site.author.name }}">
   {% include twitter.html %}
 
+  {% if page.description %}
+    <meta name="description" content="{{ page.description }}">
+  {% endif %}
+
   <!-- CSS -->
   <link rel="stylesheet" href="/public/css/poole.css">
   <link rel="stylesheet" href="/public/css/syntax.css">
