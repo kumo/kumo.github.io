@@ -5,7 +5,7 @@ category: hiragana, katakana, website
 ---
 I think it is now time to discuss the quiz poll results. Thank you everyone who spent some time voting and especially those that left comments. The current results can be seen in the graph below:
 
-![Quiz poll results for December](/resources/quiz-results.png)
+![Quiz poll results for December](/assets/quiz-results.png)
 
 The comments that I received were as follows:
 

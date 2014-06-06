@@ -5,4 +5,4 @@ layout: post
 ---
 No comment...
 
-![Welcome to Lichtenstein](/resources/Welcome_To_Lichtenstein.jpg)
+![Welcome to Lichtenstein](/assets/Welcome_To_Lichtenstein.jpg)

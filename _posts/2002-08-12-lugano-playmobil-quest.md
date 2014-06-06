@@ -8,23 +8,23 @@ The rain stopped and a trip to Lugano was in order, so across the Swiss-Italian 
 
 <table>
 <tr>
-<td align="center"><img width="200" height="150" src="/resources/photos/lugano-motorway.png"></td>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-mountain.png"></td>
+<td align="center"><img width="200" height="150" src="/assets/photos/lugano-motorway.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-mountain.png"></td>
 </tr>
 <tr>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-mountain2.png"></td>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-lake.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-mountain2.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-lake.png"></td>
 </tr>
 <tr>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-lake2.png"></td>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-fish.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-lake2.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-fish.png"></td>
 </tr>
 <tr>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-grafitti.png"></td>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-ghost.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-grafitti.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-ghost.png"></td>
 </tr>
 <tr>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-building.png"></td>
-<td align="center"><img width="200" height="150"  src="/resources/photos/lugano-tunnel.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-building.png"></td>
+<td align="center"><img width="200" height="150"  src="/assets/photos/lugano-tunnel.png"></td>
 </tr>
 </table>

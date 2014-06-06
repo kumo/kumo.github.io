@@ -1,5 +1,5 @@
 ---
-title: "TheRubyMine - Italian Ruby/Ruby on Rails resources"
+title: "TheRubyMine - Italian Ruby/Ruby on Rails assets"
 layout: post
 category: rails
 ---

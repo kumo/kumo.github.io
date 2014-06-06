@@ -4,7 +4,7 @@ category: random
 layout: post
 ---
 
-![Tim and Tobias](/resources/tim_and_tobias.jpg)
+![Tim and Tobias](/assets/tim_and_tobias.jpg)
 
 I remember reading a book when I was in Infant/Junior School but all I could recall were certain elements: a boy living by a canal with his uncle or aunt, a key that was a black cat, a mountain, and a kitten being thrown in the canal.
 
