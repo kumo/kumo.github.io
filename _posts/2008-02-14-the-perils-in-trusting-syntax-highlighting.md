@@ -3,7 +3,7 @@ title: The perils in trusting syntax highlighting
 layout: post
 categories: developing
 ---
-Today after upgrading RSpec I ran a user story that I had just written and received a wonderful error: `You have a nil object when you didn't expect it! (NoMethodError). The error occurred while evaluating nil.add_scenario`. I didn’t even think to check my user story because the syntax highlighting looked fine and it made sense to me:
+Today after upgrading RSpec I ran a user story that I had just written and received a wonderful error: `You have a nil object when you didn't expect it! (NoMethodError). The error occurred while evaluating nil.add_scenario`. I didn't even think to check my user story because the syntax highlighting looked fine and it made sense to me:
 
 {% highlight ruby %}
   Scenario: areas have different types

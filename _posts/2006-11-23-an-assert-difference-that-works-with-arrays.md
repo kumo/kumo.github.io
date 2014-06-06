@@ -7,7 +7,7 @@ I have started using the better assert_difference that was posted at [blog.caboo
 
 {% highlight ruby %}
 assert_difference Item, :count do
-  Item.create(:name => “Monkey magic”)
+  Item.create(:name => "Monkey magic")
 end
 
 # This replaces:
@@ -24,7 +24,7 @@ assert_difference ActionMailer::Base.deliveries, :size do
 end
 {% endhighlight %}
 
-That didn’t work and it was noted on that website that the code didn’t work properly with arrays so I have modified the assert_difference method to check if the objects respond to the method (e.g. size) and act accordingly:
+That didn't work and it was noted on that website that the code didn't work properly with arrays so I have modified the assert_difference method to check if the objects respond to the method (e.g. size) and act accordingly:
 
 {% highlight ruby %}
 def assert_difference(objects, method = nil, difference = 1)
@@ -54,7 +54,7 @@ def assert_difference(objects, method = nil, difference = 1)
 end
 {% endhighlight %}
 
-I have tested it for an array such as ActionMailer::Base.deliveries but I haven’t tested it in other situations so hopefully it won’t create any problems.
+I have tested it for an array such as ActionMailer::Base.deliveries but I haven't tested it in other situations so hopefully it won't create any problems.
 
 The rspec version of this is:
 

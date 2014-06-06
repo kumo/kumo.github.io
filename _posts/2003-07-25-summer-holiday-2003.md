@@ -3,10 +3,8 @@ title: Summer Holiday 2003
 layout: post
 categories: photos
 description: Off on holiday for a couple of weeks. Added some photos of <a Barcelona and some movement of light.
-
 ---
 Off on holiday for a couple of weeks. Added some photos of Barcelona and some _movement of light_.
-
 
 ## Barcelona, 2003
 
