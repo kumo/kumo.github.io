@@ -12,4 +12,4 @@ I searched and I searched and I found a forum with someone looking for the same 
 
 Somehow though, I managed to find the book and so I place this information in the google archives just in case someone else is searching for it
 
-The author was Sheila K. McCullagh and the first book was called **Tim and Tobias ~ Magic in the Wind**. I also discovered a website called "Tim and the Hidden People" (which is where I probably found this missing book) and can be found at [www.timandthehiddenpeople.moonfruit.com](www.timandthehiddenpeople.moonfruit.com)
+The author was Sheila K. McCullagh and the first book was called **Tim and Tobias ~ Magic in the Wind**. I also discovered a website called "Tim and the Hidden People" (which is where I probably found this missing book) and can be found at [www.timandthehiddenpeople.moonfruit.com](http://www.timandthehiddenpeople.moonfruit.com)
