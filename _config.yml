@@ -1,7 +1,7 @@
 # Site settings
 title: "[kumo.it]"
 email: kumo@kumo.it
-description: 'Random stuff from an ex-BeOS developer. Made by <a href="https://twitter.com/kumo" target="_blank">@kumo</a>.'
+description: 'A collection of random thoughts, together with a dusty pile of BeOS software and Ruby on Rails notes. Made by <a href="https://twitter.com/kumo" target="_blank">@kumo</a>.'
 url: "http://www.kumo.it"
 baseurl: ""
 
