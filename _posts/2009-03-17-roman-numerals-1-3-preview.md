@@ -3,6 +3,7 @@ title: Roman Numerals 1.3 preview
 layout: post
 categories: ios, romannumerals
 note: incomplete
+redirect_from: "/articles/2009/03/17/roman-numerals-13-preview/"
 ---
 Update: this version is now available. See this post for more details.
 

@@ -3,6 +3,7 @@ title: Milan Quest
 layout: post
 description: Milan is empty so I headed north and met the clouds. Photo collection.
 categories: photos
+redirect_from: "/articles/2002/08/11/milan-quest/"
 ---
 Milano is in a haze and as the summer evolves I find myself longing for the green pastures of another land... it seems I must wait another 24 hours before the sun clouds will go away.
 

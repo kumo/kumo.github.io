@@ -2,6 +2,7 @@
 title: "Experiences in emulating BeOS in OSX"
 category: BeOS
 layout: post
+redirect_from: "/articles/2006/09/17/experiences-in-emulating-beos-in-osx/"
 ---
 <p class="message">
 Update: it is probably a much better to look at the official [Haiku wiki](https://www.haiku-os.org/guides/virtualizing) for more up-to-date information.

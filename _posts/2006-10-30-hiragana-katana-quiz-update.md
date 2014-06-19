@@ -2,6 +2,7 @@
 title: Hiragana/Katakana quiz update
 layout: posts
 categories: hiragana, katakana
+redirect_from: "/articles/2006/10/30/hiraganakatakana-quiz-update/"
 ---
 I have updated the hiragana and katakana quizes and I hope they are now easier to use.
 

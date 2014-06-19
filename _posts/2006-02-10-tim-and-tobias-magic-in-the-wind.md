@@ -2,6 +2,7 @@
 title: "Tim and Tobias ~ Magic in the Wind"
 category: random
 layout: post
+redirect_from: "/articles/2006/02/10/tim-and-tobias-magic-in-the-wind/"
 ---
 
 ![Tim and Tobias](/assets/tim_and_tobias.jpg)

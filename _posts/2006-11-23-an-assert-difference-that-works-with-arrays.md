@@ -2,6 +2,7 @@
 title: an assert_difference that works with arrays
 layout: posts
 category: rails
+redirect_from: "/articles/2006/11/23/an-assert_difference-that-works-with-arrays/"
 ---
 I have started using the better assert_difference that was posted at [blog.caboo.se](http://blog.caboo.se/articles/2006/06/13/a-better-assert_difference) to improve my rails tests. This allowed me to write tests such as:
 

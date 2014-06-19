@@ -2,6 +2,7 @@
 title: Site design
 layout: posts
 category: website
+redirect_from: "/articles/2007/12/02/site-design/"
 ---
 I do think that it is about time that I changed the theme of this website. I don't know if anyone remembers the original hand-crufted theme but luckily archive.org is able to help me out:
 

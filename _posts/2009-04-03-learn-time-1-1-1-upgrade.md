@@ -2,6 +2,7 @@
 title: Learn Time 1.1.1 upgrade
 layout: post
 categories: ios, learntime
+redirect_from: "/articles/2009/04/03/learn-time-111/"
 ---
 A minor update to Learn Time for the iPhone and iPod Touch is now available in the app store. In the previous version the 5th level was missing from the home screen and so the only way to get to it was to finish the 4th level first. This version also adds email and website links.
 

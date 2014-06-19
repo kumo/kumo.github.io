@@ -2,6 +2,7 @@
 title: Designing a quiz with plain text user stories
 layout: post
 categories: developing, rails
+redirect_from: "/articles/2008/04/01/designing-a-quiz-with-user-stories/"
 ---
 Over the next couple of posts I thought that I would like to discuss the redevelopment of my hiragana and katakana quiz software. This software originally started out as a command-line Perl script, became a PHP web script, before turning into a Ruby on Rails web application. Unfortunately, although the development language changed and possibilities increased, the overall functionality remained very much trapped in the original design. As I have started in other posts, I have plans for my quiz software, but it remains rather static, so perhaps it would be a good idea to talk about user stories as a way of providing clarity and focus.
 

@@ -2,6 +2,7 @@
 layout: post
 title: Site Changes
 category: website
+redirect_from: "/articles/2006/01/28/site-changes/"
 ---
 oops&#8230; something has gone wrong&#8230;
 

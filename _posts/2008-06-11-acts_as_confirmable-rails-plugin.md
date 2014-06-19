@@ -2,6 +2,7 @@
 title: acts_as_confirmable rails plugin
 layout: post
 category: rails
+redirect_from: "/articles/2008/06/11/acts_as_confirmable-plugin/"
 ---
 `acts_as_confirmable` is a Ruby on Rails plugin that is useful when you want to know who ticked a check box and when they did so. It can be found on [GitHub](http://github.com/kumo/acts_as_confirmable).
 

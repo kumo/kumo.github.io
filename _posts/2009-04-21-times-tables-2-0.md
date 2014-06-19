@@ -2,6 +2,7 @@
 title: Times Tables 2.0 upgrade
 layout: post
 categories: ios, timestables
+redirect_from: "/articles/2009/04/21/times-tables-20/"
 ---
 After a couple of months of development the new version of Times Tables for the iPhone and iPod Touch is now available in the app store. This version contains a lot of changes and new additions and has things that will be of interest to children and also to parents.
 

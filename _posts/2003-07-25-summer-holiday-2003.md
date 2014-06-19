@@ -3,6 +3,7 @@ title: Summer Holiday 2003
 layout: post
 categories: photos
 description: Off on holiday for a couple of weeks. Added some photos of <a Barcelona and some movement of light.
+redirect_from: "/articles/2003/07/25/summer-holiday-2003/"
 ---
 Off on holiday for a couple of weeks. Added some photos of Barcelona and some _movement of light_.
 

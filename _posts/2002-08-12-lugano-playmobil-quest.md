@@ -3,6 +3,7 @@ title: Lugano Playmobil Quest
 description: The need for playmobil led us across the border and into Lugano. Photo collection.
 layout: post
 categories: photos
+redirect_from: "/articles/2002/08/12/lugano-playmobil-quest/"
 ---
 The rain stopped and a trip to Lugano was in order, so across the Swiss-Italian border we went in search of playmobil...
 
