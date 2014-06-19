@@ -5,7 +5,7 @@ layout: post
 redirect_from: "/articles/2006/09/17/experiences-in-emulating-beos-in-osx/"
 ---
 <p class="message">
-Update: it is probably a much better to look at the official [Haiku wiki](https://www.haiku-os.org/guides/virtualizing) for more up-to-date information.
+Update: it is probably a much better to look at the official <a href="https://www.haiku-os.org/guides/virtualizing">Haiku wiki</a> for more up-to-date information.
 </p>
 
 A couple of nights ago I decided that it was time to see if I could get BeOS to work on my iBook (it worked but it was very slow). The only way I could get it to work was with emulation. I found the information on various places on the Internet but I forgot to note down where I found it from so I am recreating it here (so that at least I don't forget how it was done).
