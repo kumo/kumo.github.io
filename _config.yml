@@ -24,3 +24,6 @@ google: UA-84351-1
 
 github:
   repo:  https://github.com/kumo
+
+gems:
+  - jekyll-redirect-from
