@@ -10,7 +10,7 @@ author:
   username: kumo
 
 # Build settings
-markdown: redcarpet
+markdown: kramdown
 highlighter: pygments
 permalink: /:year/:month/:day/:title/
 
