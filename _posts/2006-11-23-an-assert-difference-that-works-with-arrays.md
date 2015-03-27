@@ -1,6 +1,6 @@
 ---
 title: an assert_difference that works with arrays
-layout: posts
+layout: post
 category: rails
 redirect_from: "/articles/2006/11/23/an-assert_difference-that-works-with-arrays/"
 ---

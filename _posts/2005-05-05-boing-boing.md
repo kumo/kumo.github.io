@@ -1,5 +1,5 @@
 ---
 title: Boing boing!
-layout: posts
+layout: post
 ---
 Boing boing!

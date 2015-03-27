@@ -1,6 +1,6 @@
 ---
 title: Site design
-layout: posts
+layout: post
 category: website
 redirect_from: "/articles/2007/12/02/site-design/"
 ---

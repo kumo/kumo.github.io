@@ -1,6 +1,6 @@
 ---
 title: Hiragana/Katakana quiz update
-layout: posts
+layout: post
 categories: hiragana, katakana
 redirect_from: "/articles/2006/10/30/hiraganakatakana-quiz-update/"
 ---
